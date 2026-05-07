@@ -1,2 +1,2 @@
-FROM jeycomgonzalez/appsaludboyaca:v4
+FROM jeycomgonzalez/appsaludboyaca:v5
 EXPOSE 8080
